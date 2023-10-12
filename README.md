@@ -5,7 +5,7 @@ Question: Let’s say we want to build a model to predict booking prices on Airb
 
 # Solution
 ## Step 1: Data Collection
-The dataset used for this project was ![Airbnb Cleaned Europe Dataset]([https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset)) from Kaggle. It contained information about Airbnbs in Europe, the listing details and prices wich was relevant for the question. 
+The dataset used for this project was [Airbnb Cleaned Europe Dataset]([https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset)) from Kaggle. It contained information about Airbnbs in Europe, the listing details and prices wich was relevant for the question. 
 The overview of the data is shown below:
 ![Data Overview](/df_bnb.png)
 
